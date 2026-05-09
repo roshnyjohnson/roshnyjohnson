@@ -57,27 +57,13 @@ Collection of beginner-friendly and problem-solving Python projects.
 
 ---
 
-# 🏆 Badges & Achievements
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=roshnyjohnson&color=blueviolet&style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/roshnyjohnson?style=for-the-badge)
-
-![GitHub User's stars](https://img.shields.io/github/stars/roshnyjohnson?style=for-the-badge)
-
-</div>
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshnyjohnson&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshnyjohnson&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnyjohnson&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnyjohnson&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -87,7 +73,7 @@ Collection of beginner-friendly and problem-solving Python projects.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=roshnyjohnson&theme=tokyonight" />
+<img width="70%" src="https://streak-stats.demolab.com?user=roshnyjohnson&theme=tokyonight&hide_border=true" />
 
 </div>
 
