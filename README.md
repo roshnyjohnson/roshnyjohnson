@@ -55,17 +55,6 @@ Experimental and interactive project with creative gameplay concepts.
 ## 🧠 Python Projects
 Collection of beginner-friendly and problem-solving Python projects.
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshnyjohnson&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnyjohnson&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
