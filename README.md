@@ -1,105 +1,80 @@
-<div align="center">
+# Hey there, I'm Roshny! 👋
 
-# 🚀 Roshny Johnson
+### Welcome to my little corner of GitHub 🌷
 
-### Full Stack • AI • Systems Development • Creative Builder
+I'm a Computer Science student who loves exploring technology, experimenting with ideas and turning random thoughts into working projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+C;Building+Creative+Projects;Systems+and+Web+Development;Always+Learning+New+Technologies" />
+Sometimes it's AI, sometimes it's web development, sometimes it's me trying to figure out why my code isn't working. Either way, there's always something new to learn!
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-💡 Passionate developer interested in:
-
-- Full Stack Development
-- AI & Intelligent Applications
-- Systems Programming
-- Problem Solving
-- Creative Experimental Projects
-
-⚡ I enjoy building projects that combine:
-> Logic + Creativity + Real-world usability
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&lines=Building+things+with+code+%E2%9C%A8;Exploring+AI+and+Machine+Learning;Turning+ideas+into+projects;Learning+something+new+every+day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=36BCF7\&center=false\&vCenter=true\&width=550\&lines=Building+things+with+code+%E2%9C%A8;Exploring+AI+and+Machine+Learning;Turning+ideas+into+projects;Learning+something+new+every+day)!" />
 
 ---
 
-# 🛠️ Tech Stack
+### 🧩 A little about me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,react,nodejs,mysql,linux,git,github,vscode" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 📱 FullMobileApp
-A full-stack mobile application project focused on modern UI and functionality.
-
-## 🍔 FoodieZoeverse
-Frontend-based food ordering/user interface project.
-
-## 🚌 BusApp
-A transportation-related application with practical functionality.
-
-## 📊 Student Attendance Management
-Attendance tracking and management system.
-
-## 🎮 SEAT WAR
-Experimental and interactive project with creative gameplay concepts.
-
-## 🧠 Python Projects
-Collection of beginner-friendly and problem-solving Python projects.
-
+- 🎓 Computer Science Engineering student
+- 🤖 Curious about AI, Machine Learning and LLMs
+- 💻 Love experimenting with full-stack development
+- 🧠 Always up for solving problems and learning new things
+- 🎤 Outside coding, you'll probably find me hosting events or coordinating something!
 
 ---
 
-# 🔥 GitHub Streak
+### 🛠️ Things I enjoy working with
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=roshnyjohnson&theme=tokyonight&hide_border=true" />
-
-</div>
+\<div align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,mongodb,postgres,git,github,vscode](https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,mongodb,postgres,git,github,vscode)" />
+\</div>
 
 ---
 
-# 🌱 Currently Exploring
+### 🚀 Things I've built
 
-- Full Stack Web Development
-- Intelligent Applications
-- Backend Systems
-- UI/UX Improvements
-- Open Source Projects
+A few projects I've worked on along the way!
 
----
+**💰 SaveSmart – AI Expense Tracker**
 
-# 🌐 Connect With Me
+An expense tracker that uses AI to help categorize expenses and make managing money a little easier.
 
-<div align="center">
+`React` `Node.js` `Express` `MongoDB` `LLM APIs`
 
-<a href="https://github.com/roshnyjohnson">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+[Explore the project →](https://github.com/roshnyjohnson/EXPENSE-TRACKER-WITH-AI-CATEGORIZATION)
 
-<a href="https://www.linkedin.com/in/roshny-johnson-9b6352344">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+**📧 Email Spam Detection**
 
-<a href="https://www.instagram.com/rosh_nyjohnson/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+A machine learning project that identifies whether an email is spam or legitimate using NLP techniques.
 
-</div>
+`Python` `Scikit-learn` `TF-IDF` `FastAPI` `React`
+
+[Explore the project →](https://github.com/roshnyjohnson/spam-detector)
 
 ---
 
-<div align="center">
+### 🌱 Currently exploring
 
-### ⚡ “Building projects, learning continuously, and improving every day.”
+- Building better full-stack applications
+- Experimenting with AI-powered tools
+- Learning more about backend systems
+- Making my projects more useful, not just functional!
 
-</div>
+---
+
+### 💌 Let's connect!
+
+\<a href="[https://www.linkedin.com/in/roshny-johnson-9b6352344](https://www.linkedin.com/in/roshny-johnson-9b6352344)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)" />
+\</a>
+\<a href="mailto\:roshnyjn05\@gmail.com">
+&#x20; \<img src="[https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square&logo=gmail](https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square\&logo=gmail)" />
+\</a>
+\<a href="[https://github.com/roshnyjohnson](https://github.com/roshnyjohnson)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square\&logo=github)" />
+\</a>
+
+---
+
+\<div align="center">
+
+*Still learning, still building, still breaking things (and fixing them).* ✨
+
+\</div>
