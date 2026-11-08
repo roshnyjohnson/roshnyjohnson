@@ -1,3 +1,4 @@
+
 # Hey there, I'm Roshny! 👋
 
 ### Welcome to my little corner of GitHub 🌷
@@ -6,7 +7,7 @@ I'm a Computer Science student who loves exploring technology, experimenting wit
 
 Sometimes it's AI, sometimes it's web development, sometimes it's me trying to figure out why my code isn't working. Either way, there's always something new to learn!
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&lines=Building+things+with+code+%E2%9C%A8;Exploring+AI+and+Machine+Learning;Turning+ideas+into+projects;Learning+something+new+every+day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=36BCF7\&center=false\&vCenter=true\&width=550\&lines=Building+things+with+code+%E2%9C%A8;Exploring+AI+and+Machine+Learning;Turning+ideas+into+projects;Learning+something+new+every+day)!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&lines=Building+things+with+code;Exploring+AI+and+Machine+Learning;Turning+ideas+into+projects;Learning+something+new+every+day" alt="Typing SVG" />
 
 ---
 
@@ -22,9 +23,9 @@ Sometimes it's AI, sometimes it's web development, sometimes it's me trying to f
 
 ### 🛠️ Things I enjoy working with
 
-\<div align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,mongodb,postgres,git,github,vscode](https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,mongodb,postgres,git,github,vscode)" />
-\</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,express,mongodb,postgres,git,github,vscode" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -61,20 +62,20 @@ A machine learning project that identifies whether an email is spam or legitimat
 
 ### 💌 Let's connect!
 
-\<a href="[https://www.linkedin.com/in/roshny-johnson-9b6352344](https://www.linkedin.com/in/roshny-johnson-9b6352344)">
-&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)" />
-\</a>
-\<a href="mailto\:roshnyjn05\@gmail.com">
-&#x20; \<img src="[https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square&logo=gmail](https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square\&logo=gmail)" />
-\</a>
-\<a href="[https://github.com/roshnyjohnson](https://github.com/roshnyjohnson)">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square\&logo=github)" />
-\</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/roshny-johnson-9b6352344">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roshnyjn05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/roshnyjohnson">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-\<div align="center">
-
-*Still learning, still building, still breaking things (and fixing them).* ✨
-
-\</div>
+<p align="center">
+  <i>Still learning, still building, still breaking things (and fixing them).</i> ✨
+</p>
